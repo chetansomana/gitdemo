@@ -9,6 +9,6 @@ class wdog extends wdog_base;
     read(wdog_timer) = 5'b1_0110; //100us;
     read(fault_cnt) = 1'b0;
   end
-  
+ //feature 1 added// 
 
 endclass
