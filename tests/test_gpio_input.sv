@@ -16,5 +16,6 @@ class gpio extends gpio_base;
   end
   ///feature 1 has been added//
   ///feature 2 has been added//
+  ///feature 3 has been added//
 
 endclass
