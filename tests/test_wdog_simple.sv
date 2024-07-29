@@ -10,5 +10,6 @@ class wdog extends wdog_base;
     read(fault_cnt) = 1'b0;
   end
  //feature 1 added// 
+ //feature 2 added// 
 
 endclass
