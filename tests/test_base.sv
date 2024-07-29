@@ -1,4 +1,5 @@
 class base_test;
+class base_test;
   gpio1 = 1;
   wdog = 0;
   ldo1_volt = 5'b1_0010;
