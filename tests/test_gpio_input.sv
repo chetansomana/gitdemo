@@ -15,5 +15,6 @@ class gpio extends gpio_base;
     read(ldo2_reg_val) = 4'b0010; //0.7v
   end
   ///feature 1 has been added//
+  ///feature 2 has been added//
 
 endclass
